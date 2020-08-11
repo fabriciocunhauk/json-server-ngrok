@@ -1,0 +1,29 @@
+{
+  "blogposts": [
+    {
+      "id": 1,
+      "title": "fabricio",
+      "content": "My blogPost api"
+    },
+    {
+      "title": "Newly created api post",
+      "content": "My api post",
+      "id": 2
+    },
+    {
+      "title": "Post - 3",
+      "content": "My post -3",
+      "id": 3
+    },
+    {
+      "title": "My post - 4.1",
+      "content": "Post 4.1",
+      "id": 4
+    },
+    {
+      "title": "Add blob post 5 ",
+      "content": "Post 5",
+      "id": 5
+    }
+  ]
+}
